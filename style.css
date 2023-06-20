@@ -11,6 +11,9 @@
     src: url('tway_sky.ttf');
 }
 
+body{
+    overflow-x: hidden;
+}
 .hero{
     background: url('nav-background.png');
     width: 100%;
